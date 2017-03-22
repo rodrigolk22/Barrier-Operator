@@ -1,0 +1,305 @@
+# depslib dependency file v1.0
+1427477736 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 02 - Gestão de Tarefas/pingpong-tasks1.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1443913011 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 02 - Gestão de Tarefas/pingpong.h
+	"datatypes.h"
+
+1443914271 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 02 - Gestão de Tarefas/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+
+1443913285 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 02 - Gestão de Tarefas/pingpong.c
+	"pingpong.h"
+
+1427480031 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 03 - Despachante de Tarefas/pingpong-dispatcher.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 03 - Despachante de Tarefas/pingpong.h
+	"datatypes.h"
+
+1444676888 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 03 - Despachante de Tarefas/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"queue.h"
+
+1441368661 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 03 - Despachante de Tarefas/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 03 - Despachante de Tarefas/queue.c
+	"queue.h"
+
+1444673553 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 03 - Despachante de Tarefas/pingpong.c
+	"pingpong.h"
+
+1428415908 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 04 - Escalonamento por Prioridades/pingpong-scheduler.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 04 - Escalonamento por Prioridades/pingpong.h
+	"datatypes.h"
+
+1444686689 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 04 - Escalonamento por Prioridades/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"queue.h"
+
+1441368661 /home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 04 - Escalonamento por Prioridades/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 04 - Escalonamento por Prioridades/queue.c
+	"queue.h"
+
+1444685325 source:/home/redproxy/Área de Trabalho/Projetos/Projetos A/Projeto 04 - Escalonamento por Prioridades/pingpong.c
+	"pingpong.h"
+
+1448053301 source:/home/redproxy/Dropbox/UTFPR/SO/Meus projetos/Projeto 04 - Escalonamento por Prioridades/pingpong-scheduler.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Dropbox/UTFPR/SO/Meus projetos/Projeto 04 - Escalonamento por Prioridades/pingpong.h
+	"datatypes.h"
+
+1448055726 /home/redproxy/Dropbox/UTFPR/SO/Meus projetos/Projeto 04 - Escalonamento por Prioridades/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Dropbox/UTFPR/SO/Meus projetos/Projeto 04 - Escalonamento por Prioridades/queue.h
+
+1444671618 source:/home/redproxy/Dropbox/UTFPR/SO/Meus projetos/Projeto 04 - Escalonamento por Prioridades/queue.c
+	"queue.h"
+
+1448055677 source:/home/redproxy/Dropbox/UTFPR/SO/Meus projetos/Projeto 04 - Escalonamento por Prioridades/pingpong.c
+	"pingpong.h"
+
+1427492360 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 05 - Preempção por tempo/pingpong-preempcao.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 05 - Preempção por tempo/pingpong.h
+	"datatypes.h"
+
+1448113183 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 05 - Preempção por tempo/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 05 - Preempção por tempo/queue.h
+
+1448113157 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 05 - Preempção por tempo/pingpong.c
+	"pingpong.h"
+
+1444671618 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 05 - Preempção por tempo/queue.c
+	"queue.h"
+
+1428435108 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 06 - Contabilização/pingpong-contab.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 06 - Contabilização/pingpong.h
+	"datatypes.h"
+
+1448126952 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 06 - Contabilização/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 06 - Contabilização/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 06 - Contabilização/queue.c
+	"queue.h"
+
+1448127157 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 06 - Contabilização/pingpong.c
+	"pingpong.h"
+
+1427493026 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 07 - Tarefa Main/pingpong-maintask.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 07 - Tarefa Main/pingpong.h
+	"datatypes.h"
+
+1448126952 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 07 - Tarefa Main/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 07 - Tarefa Main/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 07 - Tarefa Main/queue.c
+	"queue.h"
+
+1427493050 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 08 - Operador Join/pingpong-join.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 08 - Operador Join/pingpong.h
+	"datatypes.h"
+
+1449082118 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 08 - Operador Join/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 08 - Operador Join/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 08 - Operador Join/queue.c
+	"queue.h"
+
+1449083620 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 08 - Operador Join/pingpong.c
+	"pingpong.h"
+
+1427493076 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 09 - task sleep/pingpong-sleep.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 09 - task sleep/pingpong.h
+	"datatypes.h"
+
+1449092131 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 09 - task sleep/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 09 - task sleep/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 09 - task sleep/queue.c
+	"queue.h"
+
+1449265968 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 09 - task sleep/pingpong.c
+	"pingpong.h"
+
+1450212503 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/pingpong-semaphore.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/pingpong.h
+	"datatypes.h"
+
+1450215421 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/queue.h
+
+1444671618 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/queue.c
+	"queue.h"
+
+1450215412 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/pingpong.c
+	"pingpong.h"
+
+1427497684 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 10 - semaforos/pingpong-racecond.c
+	<stdio.h>
+	<stdlib.h>
+	"pingpong.h"
+
+1427490924 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 11- Operador barreira/pingpong-barrier.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 11- Operador barreira/pingpong.h
+	"datatypes.h"
+
+1450268616 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 11- Operador barreira/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Área de Trabalho/Meus projetos/Projeto 11- Operador barreira/queue.h
+
+1450268522 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 11- Operador barreira/pingpong.c
+	"pingpong.h"
+
+1450268606 source:/home/redproxy/Área de Trabalho/Meus projetos/Projeto 11- Operador barreira/queue.c
+	"queue.h"
+
+1427490924 source:/media/redproxy/E446409C4640717A/Users/RedProxy/Dropbox/0_UTFPR/Material SO e ED2/Projeto 11- Operador barreira/pingpong-barrier.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pingpong.h"
+
+1444655218 /media/redproxy/E446409C4640717A/Users/RedProxy/Dropbox/0_UTFPR/Material SO e ED2/Projeto 11- Operador barreira/pingpong.h
+	"datatypes.h"
+
+1450268616 /media/redproxy/E446409C4640717A/Users/RedProxy/Dropbox/0_UTFPR/Material SO e ED2/Projeto 11- Operador barreira/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /media/redproxy/E446409C4640717A/Users/RedProxy/Dropbox/0_UTFPR/Material SO e ED2/Projeto 11- Operador barreira/queue.h
+
+1450268668 source:/media/redproxy/E446409C4640717A/Users/RedProxy/Dropbox/0_UTFPR/Material SO e ED2/Projeto 11- Operador barreira/pingpong.c
+	"pingpong.h"
+
+1450268606 source:/media/redproxy/E446409C4640717A/Users/RedProxy/Dropbox/0_UTFPR/Material SO e ED2/Projeto 11- Operador barreira/queue.c
+	"queue.h"
+
+1427490924 source:/home/redproxy/Projeto 11- Operador barreira/pingpong-barrier.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pingpong.h"
+
+1444655218 /home/redproxy/Projeto 11- Operador barreira/pingpong.h
+	"datatypes.h"
+
+1450268616 /home/redproxy/Projeto 11- Operador barreira/datatypes.h
+	<stdio.h>
+	<stdlib.h>
+	<ucontext.h>
+	<signal.h>
+	<sys/time.h>
+	"queue.h"
+
+1441368662 /home/redproxy/Projeto 11- Operador barreira/queue.h
+
+1450268668 source:/home/redproxy/Projeto 11- Operador barreira/pingpong.c
+	"pingpong.h"
+
+1467548801 source:/home/redproxy/Projeto 11- Operador barreira/queue.c
+	"queue.h"
+
